@@ -1,0 +1,91 @@
+* {
+    batas :  0 ;
+    bantalan :  0 ;
+}
+
+. navigasi {
+    margin : otomatis;
+    posisi : tetap;
+    perataan teks : tengah;
+    lebar :  100 % ;
+    ukuran font :  20 px ;
+}
+
+. nav  ul {
+    warna latar :  rgb ( 0 ,  0 ,  0 );
+    gaya daftar : tidak ada;
+    posisi : relatif;
+    tampilan : inline-tabel;
+    lebar :  100 % ;
+}
+
+. nav  ul  li {
+    mengapung : kiri;
+}
+
+. nav  ul  li : arahkan {
+    warna latar : coklat;
+}
+
+. nav  ul  li : melayang  a {
+    warna : emas;
+}
+
+. nav  ul  li  a {
+    tampilan : blok;
+    bantalan :  20 piksel ;
+    warna : rgb ( 255 ,  255 ,  255 );
+    dekorasi teks : tidak ada;
+}
+
+/* ini css untuk gambar */
+
+. gambar {
+   batas :  0 ;
+   bantalan :  0 ;
+
+}
+gambar {
+    lebar :  100 % ;
+    tampilan : inline-block;
+}
+
+/* ini css untuk konten */
+
+. konten {
+    lebar :  69 % ;
+    /* warna latar belakang: cadetblue; */
+    text-align : membenarkan;
+   
+    mengapung : kiri;
+}
+. tes {
+    margin-atas :  20 px ;
+}
+
+/* ini css untu tetnat penulis */
+. tentan {
+    text-align : membenarkan;
+    lebar :  30 % ;
+    mengapung : benar;
+    /* warna latar belakang: coklat; */
+    padding-top :  10 px ;
+
+}
+. tentan  p  img {
+    mengapung : kiri;
+    lebar :  100 piksel ;
+    tinggi :  110 piksel ;
+   
+}
+
+. catatan kaki {
+    margin-atas :  480 px ;
+    warna latar belakang : hitam;
+    tinggi :  30 piksel ;
+}
+. catatan kaki  h4 {
+   
+    warna : blanchedalmond;
+    perataan teks : tengah;
+}
